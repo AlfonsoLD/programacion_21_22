@@ -1,7 +1,7 @@
 package U1.T1;
 
 import java.util.Scanner;
-
+//un programa que nos pida un número n, y nos diga cuantos números hay entre 1 y n que sean primos.
 public class ej8_15 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
